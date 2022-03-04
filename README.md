@@ -1,6 +1,6 @@
 # Hello There, I am Jaynish Mandalia 👋
 
-## I am Web and App Developer at intermediate level, competitive programmer and a student!!
+## I am Web and App Developer at intermediate level, competitive programmer and a student at Dharmsinh Desai University!!
 <br/>
 
 - 🌱 I’m currently learning
