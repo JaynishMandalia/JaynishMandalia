@@ -1,11 +1,11 @@
-# Hello There, I am Jaynish Mandalia 👋
+# Hello There, I am Jaynish Mandalia 👋🏻
 
 ## I am Web and App Developer at intermediate level, competitive programmer and 1.2 Years of experience as Backend Developer.
 <br/>
 
-- 🌱 I’m currently learning
-- 🔭 I’m currently working on new Skills
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning.
+- 🔭 Currently Seeking for new opportunities for work.
+- 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I like to explore new things in Phones, Tablets and Laptops.
 - 📫 Connect With me:
 <a target="_blank" href="https://www.linkedin.com/in/jaynish-mandalia-8169381bb/">
