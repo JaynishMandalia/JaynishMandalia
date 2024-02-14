@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on new Skills
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I like to explore new things in Phones, Tablets and Laptops.
-- 🥅 2022 Goals: Contribute more on Open Source Projects and Development of myself
 - 📫 Connect With me:
 <a target="_blank" href="https://www.linkedin.com/in/jaynish-mandalia-8169381bb/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" /> 
