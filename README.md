@@ -14,6 +14,9 @@
 <a target="_blank" href="https://www.instagram.com/jaynishmandalia3/?hl=en">
   <img align="left" alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
+<a href="mailto:jaynishm2653@gmail.com">
+  <img align="left" alt="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
 
 <br/>
 <h1 align="center">Stats</h1>
