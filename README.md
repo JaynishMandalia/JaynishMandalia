@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-<h1 align="center"> 👩🏻‍💻 Worked with this Technologies 👩🏻‍💻 :</h1>
+<h1 align="center"> 👩🏻‍💻 Worked with this Technologies 👩🏻‍💻 </h1>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/dart/dart-original.svg" style="padding-right:10px;" />
